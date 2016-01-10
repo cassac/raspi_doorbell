@@ -1,0 +1,4 @@
+picamera==1.10
+requests==2.9.1
+RPi.GPIO==0.6.1
+wheel==0.24.0
